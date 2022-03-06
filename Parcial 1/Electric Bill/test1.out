@@ -1,0 +1,194 @@
+VALOR: i es: 0 c es: 0 Valor es: 10123
+VALOR: i es: 1 c es: 200 Valor es: 10023
+VALOR: i es: 2 c es: 29900 Valor es: 123
+el c final es: 30515
+Si consumes 10123 CWh debes pagar : 30515
+CONSUMO: i es: 0 c es: 0 Valor es: 30515
+CONSUMO: i es: 1 c es: 100 Valor es: 20515
+CONSUMO: i es: 2 c es: 6938 Valor es: -97989485
+el c final es: 6938
+Si pagas 30515 Americus es porque gastaste: 6938
+el valor de tsum es: 1100
+el valor de diff es: 300
+CONSUMO: i es: 0 c es: 0 Valor es: 1100
+CONSUMO: i es: 1 c es: 100 Valor es: -8900
+CONSUMO: i es: 2 c es: 100 Valor es: -98018900
+el c final es: 100
+La primera mitad 50
+VALOR: i es: 0 c es: 0 Valor es: 50
+VALOR: i es: 1 c es: 100 Valor es: -50
+VALOR: i es: 2 c es: 100 Valor es: -9950
+el c final es: 100
+VALOR: i es: 0 c es: 0 Valor es: 50
+VALOR: i es: 1 c es: 100 Valor es: -50
+VALOR: i es: 2 c es: 100 Valor es: -9950
+el c final es: 100
+VALOR: i es: 0 c es: 0 Valor es: 75
+VALOR: i es: 1 c es: 150 Valor es: -25
+VALOR: i es: 2 c es: 150 Valor es: -9925
+el c final es: 150
+VALOR: i es: 0 c es: 0 Valor es: 25
+VALOR: i es: 1 c es: 50 Valor es: -75
+VALOR: i es: 2 c es: 50 Valor es: -9975
+el c final es: 50
+VALOR: i es: 0 c es: 0 Valor es: 88
+VALOR: i es: 1 c es: 176 Valor es: -12
+VALOR: i es: 2 c es: 176 Valor es: -9912
+el c final es: 176
+VALOR: i es: 0 c es: 0 Valor es: 12
+VALOR: i es: 1 c es: 24 Valor es: -88
+VALOR: i es: 2 c es: 24 Valor es: -9988
+el c final es: 24
+VALOR: i es: 0 c es: 0 Valor es: 94
+VALOR: i es: 1 c es: 188 Valor es: -6
+VALOR: i es: 2 c es: 188 Valor es: -9906
+el c final es: 188
+VALOR: i es: 0 c es: 0 Valor es: 6
+VALOR: i es: 1 c es: 12 Valor es: -94
+VALOR: i es: 2 c es: 12 Valor es: -9994
+el c final es: 12
+VALOR: i es: 0 c es: 0 Valor es: 97
+VALOR: i es: 1 c es: 194 Valor es: -3
+VALOR: i es: 2 c es: 194 Valor es: -9903
+el c final es: 194
+VALOR: i es: 0 c es: 0 Valor es: 3
+VALOR: i es: 1 c es: 6 Valor es: -97
+VALOR: i es: 2 c es: 6 Valor es: -9997
+el c final es: 6
+VALOR: i es: 0 c es: 0 Valor es: 99
+VALOR: i es: 1 c es: 198 Valor es: -1
+VALOR: i es: 2 c es: 198 Valor es: -9901
+el c final es: 198
+VALOR: i es: 0 c es: 0 Valor es: 1
+VALOR: i es: 1 c es: 2 Valor es: -99
+VALOR: i es: 2 c es: 2 Valor es: -9999
+el c final es: 2
+VALOR: i es: 0 c es: 0 Valor es: 100
+VALOR: i es: 1 c es: 200 Valor es: 0
+VALOR: i es: 2 c es: 200 Valor es: -9900
+el c final es: 200
+VALOR: i es: 0 c es: 0 Valor es: 0
+VALOR: i es: 1 c es: 0 Valor es: -100
+VALOR: i es: 2 c es: 0 Valor es: -10000
+el c final es: 0
+None
+el valor de tsum es: 35515
+el valor de diff es: 27615
+CONSUMO: i es: 0 c es: 0 Valor es: 35515
+CONSUMO: i es: 1 c es: 100 Valor es: 25515
+CONSUMO: i es: 2 c es: 8605 Valor es: -97984485
+el c final es: 8605
+La primera mitad 4302
+VALOR: i es: 0 c es: 0 Valor es: 4303
+VALOR: i es: 1 c es: 200 Valor es: 4203
+VALOR: i es: 2 c es: 12809 Valor es: -5697
+el c final es: 12809
+VALOR: i es: 0 c es: 0 Valor es: 4302
+VALOR: i es: 1 c es: 200 Valor es: 4202
+VALOR: i es: 2 c es: 12806 Valor es: -5698
+el c final es: 12806
+VALOR: i es: 0 c es: 0 Valor es: 6454
+VALOR: i es: 1 c es: 200 Valor es: 6354
+VALOR: i es: 2 c es: 19262 Valor es: -3546
+el c final es: 19262
+VALOR: i es: 0 c es: 0 Valor es: 2151
+VALOR: i es: 1 c es: 200 Valor es: 2051
+VALOR: i es: 2 c es: 6353 Valor es: -7849
+el c final es: 6353
+VALOR: i es: 0 c es: 0 Valor es: 7530
+VALOR: i es: 1 c es: 200 Valor es: 7430
+VALOR: i es: 2 c es: 22490 Valor es: -2470
+el c final es: 22490
+VALOR: i es: 0 c es: 0 Valor es: 1075
+VALOR: i es: 1 c es: 200 Valor es: 975
+VALOR: i es: 2 c es: 3125 Valor es: -8925
+el c final es: 3125
+VALOR: i es: 0 c es: 0 Valor es: 8068
+VALOR: i es: 1 c es: 200 Valor es: 7968
+VALOR: i es: 2 c es: 24104 Valor es: -1932
+el c final es: 24104
+VALOR: i es: 0 c es: 0 Valor es: 537
+VALOR: i es: 1 c es: 200 Valor es: 437
+VALOR: i es: 2 c es: 1511 Valor es: -9463
+el c final es: 1511
+VALOR: i es: 0 c es: 0 Valor es: 8337
+VALOR: i es: 1 c es: 200 Valor es: 8237
+VALOR: i es: 2 c es: 24911 Valor es: -1663
+el c final es: 24911
+VALOR: i es: 0 c es: 0 Valor es: 268
+VALOR: i es: 1 c es: 200 Valor es: 168
+VALOR: i es: 2 c es: 704 Valor es: -9732
+el c final es: 704
+VALOR: i es: 0 c es: 0 Valor es: 8471
+VALOR: i es: 1 c es: 200 Valor es: 8371
+VALOR: i es: 2 c es: 25313 Valor es: -1529
+el c final es: 25313
+VALOR: i es: 0 c es: 0 Valor es: 134
+VALOR: i es: 1 c es: 200 Valor es: 34
+VALOR: i es: 2 c es: 302 Valor es: -9866
+el c final es: 302
+VALOR: i es: 0 c es: 0 Valor es: 8538
+VALOR: i es: 1 c es: 200 Valor es: 8438
+VALOR: i es: 2 c es: 25514 Valor es: -1462
+el c final es: 25514
+VALOR: i es: 0 c es: 0 Valor es: 67
+VALOR: i es: 1 c es: 134 Valor es: -33
+VALOR: i es: 2 c es: 134 Valor es: -9933
+el c final es: 134
+VALOR: i es: 0 c es: 0 Valor es: 8572
+VALOR: i es: 1 c es: 200 Valor es: 8472
+VALOR: i es: 2 c es: 25616 Valor es: -1428
+el c final es: 25616
+VALOR: i es: 0 c es: 0 Valor es: 33
+VALOR: i es: 1 c es: 66 Valor es: -67
+VALOR: i es: 2 c es: 66 Valor es: -9967
+el c final es: 66
+VALOR: i es: 0 c es: 0 Valor es: 8589
+VALOR: i es: 1 c es: 200 Valor es: 8489
+VALOR: i es: 2 c es: 25667 Valor es: -1411
+el c final es: 25667
+VALOR: i es: 0 c es: 0 Valor es: 16
+VALOR: i es: 1 c es: 32 Valor es: -84
+VALOR: i es: 2 c es: 32 Valor es: -9984
+el c final es: 32
+VALOR: i es: 0 c es: 0 Valor es: 8597
+VALOR: i es: 1 c es: 200 Valor es: 8497
+VALOR: i es: 2 c es: 25691 Valor es: -1403
+el c final es: 25691
+VALOR: i es: 0 c es: 0 Valor es: 8
+VALOR: i es: 1 c es: 16 Valor es: -92
+VALOR: i es: 2 c es: 16 Valor es: -9992
+el c final es: 16
+VALOR: i es: 0 c es: 0 Valor es: 8601
+VALOR: i es: 1 c es: 200 Valor es: 8501
+VALOR: i es: 2 c es: 25703 Valor es: -1399
+el c final es: 25703
+VALOR: i es: 0 c es: 0 Valor es: 4
+VALOR: i es: 1 c es: 8 Valor es: -96
+VALOR: i es: 2 c es: 8 Valor es: -9996
+el c final es: 8
+VALOR: i es: 0 c es: 0 Valor es: 8603
+VALOR: i es: 1 c es: 200 Valor es: 8503
+VALOR: i es: 2 c es: 25709 Valor es: -1397
+el c final es: 25709
+VALOR: i es: 0 c es: 0 Valor es: 2
+VALOR: i es: 1 c es: 4 Valor es: -98
+VALOR: i es: 2 c es: 4 Valor es: -9998
+el c final es: 4
+VALOR: i es: 0 c es: 0 Valor es: 8604
+VALOR: i es: 1 c es: 200 Valor es: 8504
+VALOR: i es: 2 c es: 25712 Valor es: -1396
+el c final es: 25712
+VALOR: i es: 0 c es: 0 Valor es: 1
+VALOR: i es: 1 c es: 2 Valor es: -99
+VALOR: i es: 2 c es: 2 Valor es: -9999
+el c final es: 2
+VALOR: i es: 0 c es: 0 Valor es: 8605
+VALOR: i es: 1 c es: 200 Valor es: 8505
+VALOR: i es: 2 c es: 25715 Valor es: -1395
+el c final es: 25715
+VALOR: i es: 0 c es: 0 Valor es: 0
+VALOR: i es: 1 c es: 0 Valor es: -100
+VALOR: i es: 2 c es: 0 Valor es: -10000
+el c final es: 0
+None
